@@ -13,9 +13,13 @@ A Brawl Stars V39 (lola season) server written on lua.
 + Added real data handling!
 - As always, LoginFailedMessage is still broken
 
+21 December 01:50 (UTC+3) [SILENT UPDATE]
++ Added registration (custom name entering)
+
 ## I would be happy if you guys star the repo, thanks so much! for any bugs please concact me on my socials.
 ### Discord: gjxe
 ### Telegram: @batussz
+
 
 
 
