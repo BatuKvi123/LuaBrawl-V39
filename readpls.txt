@@ -1,0 +1,10 @@
+requirements:
+luarocks
+luasocket
+lua-zlib
+
+port will start on 9339 btw
+
+credits to c++ v39 for giving me this idea
+
+FUCK LUAROCKSSSSS
